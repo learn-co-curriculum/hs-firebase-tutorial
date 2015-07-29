@@ -1,8 +1,4 @@
----
-tags: ruby, sinatra, firebase, kids
-languages: ruby
-level: 3
----
+
 
 ## Firebase Tutorial
 
