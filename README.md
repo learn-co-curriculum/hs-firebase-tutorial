@@ -87,9 +87,4 @@ We've also created a `search_by_attribute` method that can be used to search for
 
 ### Happy coding!
 
-
-
-
-<a href='https://learn.co/lessons/hs-firebase-tutorial' data-visibility='hidden'>View this lesson on Learn.co</a>
-
 <a href='https://learn.co/lessons/hs-firebase-tutorial' data-visibility='hidden'>View this lesson on Learn.co</a>
